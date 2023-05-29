@@ -17,6 +17,7 @@ Eventify jest stroną internetową umożliwiającą rezerwację biletów na ró�
 
 Eventify to strona internetowa zapewniająca użytkownikom możliwość rezerwacji biletów na różne wydarzenia. Główne funkcje systemu to: przeglądanie listy dostępnych wydarzeń, tworzenie nowych wydarzeń, edycja istniejących wydarzeń, usuwanie wydarzeń, zarządzanie profilem użytkownika, zarządzanie zakupionymi biletami w sklepie oraz możliwość tworzenia konta i logowania.
 
+Projekt nie jest jeszcze w pełni ukończone. Aktualnie pracuję nad funkcjonalnością sklepu i obsługi zakupu biletów.
 ## Funkcjonalności 🔧 <a name="funkcjonalnosci"></a>
 
 1. **Strona główna (Landing-page):**
